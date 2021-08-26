@@ -67,4 +67,4 @@ Para consultar la carpeta de [JAVADOC](https://github.com/Jose1102/PicasYFamasGa
 
 ## Licencia 📌
 
-Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/PicasYFamasGame/blob/master/LICENSE.txt) para obtener más detalles.
+Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/IETI-spring-boot-rest-api-TASK) para obtener más detalles.
